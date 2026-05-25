@@ -49,7 +49,7 @@ const StarPattern = () => {
         />
       </div>
     </>
-  )
+  ) 
 }
 
 export default StarPattern
