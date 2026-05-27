@@ -48,9 +48,6 @@ const StarPattern = () => {
           }}
         />
       </div>
-      <div className=" h-[40vh] bg-black text-white flex items-center justify-center">
-
-      </div>
     </>
   ) 
 }
